@@ -92,17 +92,17 @@ Click [here](https://grannystreats.wordpress.com/) to go to my Wordpress page.
 ### Must-have features
 
 - At least 2 pages 
-    - Both have to have a custom background color, not the original one! (it can be the same color on both pages)
-    - Change the footer credit, notice how we cannot remove it? Optionally try hiding it anyway!
+    - Both have to have a custom background color, not the original one! (it can be the same color on both pages) => OK
+    - Change the footer credit, notice how we cannot remove it? Optionally try hiding it anyway! => OK
 - At least 1 block of every category
-    - They can be spread out across all of your pages
-    - If you can't find one in the category that does not require a premium account, skip the category.
+    - They can be spread out across all of your pages => OK
+    - If you can't find one in the category that does not require a premium account, skip the category. => OK
 - At least 1 hack block!
-    - step 12: this block should be styled not by wordpress, but by your own injected CSS
-    - Normally we need to get a premium account to add custom css, but there are sneaky ways around it.
-- A contact form
-- A font chosen by you
-- A README on your repository linking to your website
+    - step 12: this block should be styled not by wordpress, but by your own injected CSS => OK
+    - Normally we need to get a premium account to add custom css, but there are sneaky ways around it. => OK
+- A contact form => OK
+- A font chosen by you => OK
+- A README on your repository linking to your website => OK
 
 
 ### Nice-to-have features
