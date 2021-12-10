@@ -53,6 +53,7 @@ Unfortunately when discussing the price of your hard work, your friend doesn't s
     - Again, you don't need to pay. Scroll to the bottom of the page for your free option.
     - While choosing the plan, you also do not need to pay.
 9. Now make a repository, add a README and put the link to your website in there.
+Click [here](https://grannystreats.wordpress.com/) to go to my Wordpress page.
 9. Let's have a look at our pages, click on the "Pages" tab in the menu
     - You now get an overview of your Published, Drafted, Scheduled and Trashed pages.
     - Remove all unwanted pages, only regular pages can be trashed, so make the ones you want to trash all regular pages.
