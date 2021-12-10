@@ -1,4 +1,6 @@
 # Wordpress intro!
+[Granny's treats](https://grannystreats.wordpress.com/)
+
 
 - Repository: `wordpress-intro`
 - Type of Challenge: `Learning`
